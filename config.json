@@ -1622,7 +1622,7 @@
         "variants":{
           
         },
-        "url":"files/assets/29308123/1/Crosshair.png"
+        "url":"files/assets/GUI/HUD/Crosshair.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -3677,7 +3677,7 @@
         "variants":{
           
         },
-        "url":"files/assets/29313109/1/Health-icon.png"
+        "url":"files/assets/GUI/HUD/Health-icon.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -3731,7 +3731,7 @@
         "variants":{
           
         },
-        "url":"files/assets/29313110/1/Health-bars.png"
+        "url":"files/assets/GUI/HUD/Health-bars.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -9209,7 +9209,7 @@
         "variants":{
           
         },
-        "url":"files/assets/29398397/1/Hitmarker.png"
+        "url":"files/assets/GUI/HUD/Hitmarker.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -9231,7 +9231,7 @@
         "filename":"Footsteps.mp3",
         "size":33024,
         "hash":"605144496af52326ca6e8031c7d695bd",
-        "url":"files/assets/29399693/1/Footsteps.mp3"
+        "url":"files/assets/Character/Footsteps.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -9253,7 +9253,7 @@
         "filename":"Female-Jump-3.mp3",
         "size":11022,
         "hash":"2cb423be736148065f59b441ebeeb662",
-        "url":"files/assets/29400270/1/Female-Jump-3.mp3"
+        "url":"files/assets/Character/Lilium/Female-Jump-3.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -9275,7 +9275,7 @@
         "filename":"Female-Jump-2.mp3",
         "size":17472,
         "hash":"73790c8e5443caa9aa6f02889a8aa85f",
-        "url":"files/assets/29400271/1/Female-Jump-2.mp3"
+        "url":"files/assets/Character/Lilium/Female-Jump-2.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -9297,7 +9297,7 @@
         "filename":"Land-1.mp3",
         "size":12240,
         "hash":"4b718e48c7f593a3027812603f69972e",
-        "url":"files/assets/29400273/1/Land-1.mp3"
+        "url":"files/assets/Character/Land-1.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -9319,7 +9319,7 @@
         "filename":"Land-2.mp3",
         "size":11568,
         "hash":"64172798f53f1f2cd6e4d810fd4885f3",
-        "url":"files/assets/29400289/1/Land-2.mp3"
+        "url":"files/assets/Character/Land-2.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -9341,7 +9341,7 @@
         "filename":"Jump.mp3",
         "size":6840,
         "hash":"44dce4187c6df6a8fa5d98232b9123b0",
-        "url":"files/assets/29400331/1/Jump.mp3"
+        "url":"files/assets/Character/Jump.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -10912,7 +10912,7 @@
         "variants":{
           
         },
-        "url":"files/assets/29542431/1/Bullets-icon.png"
+        "url":"files/assets/GUI/HUD/Bullets-icon.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -11946,7 +11946,7 @@
         "variants":{
           
         },
-        "url":"files/assets/29676230/1/Crosshair-Part.png"
+        "url":"files/assets/GUI/HUD/Crosshair-Part.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -12000,7 +12000,7 @@
         "variants":{
           
         },
-        "url":"files/assets/29676802/1/AmmoContainer.png"
+        "url":"files/assets/GUI/HUD/AmmoContainer.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -12054,7 +12054,7 @@
         "variants":{
           
         },
-        "url":"files/assets/29676803/1/AmmoAmount.png"
+        "url":"files/assets/GUI/HUD/AmmoAmount.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -12108,7 +12108,7 @@
         "variants":{
           
         },
-        "url":"files/assets/29683714/1/Skull-Icon.png"
+        "url":"files/assets/GUI/HUD/Skull-Icon.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -12282,7 +12282,7 @@
         "variants":{
           
         },
-        "url":"files/assets/29694230/1/Lilium-Default.jpg"
+        "url":"files/assets/Character/Lilium/Lilium-Default.jpg"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -13391,7 +13391,7 @@
         "variants":{
           
         },
-        "url":"files/assets/29750772/1/Damage-Indictator.png"
+        "url":"files/assets/GUI/HUD/Damage-Indictator.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -13479,7 +13479,7 @@
         "filename":"Female-Grunt-3.mp3",
         "size":16901,
         "hash":"07f6ea9740d432b6d8076a523edbff89",
-        "url":"files/assets/29751766/1/Female-Grunt-3.mp3"
+        "url":"files/assets/Character/Lilium/Female-Grunt-3.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -13501,7 +13501,7 @@
         "filename":"Female-Grunt-1.mp3",
         "size":19143,
         "hash":"12283ac798467ab1fefc8e7c38696214",
-        "url":"files/assets/29751767/1/Female-Grunt-1.mp3"
+        "url":"files/assets/Character/Lilium/Female-Grunt-1.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -13523,7 +13523,7 @@
         "filename":"Female-Grunt-2.mp3",
         "size":21670,
         "hash":"1c1a4a6a03d02331008d3bc5eefa5a81",
-        "url":"files/assets/29751768/1/Female-Grunt-2.mp3"
+        "url":"files/assets/Character/Lilium/Female-Grunt-2.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -14674,7 +14674,7 @@
         "filename":"Data-Increase.mp3",
         "size":10185,
         "hash":"5dc925337e813dd618cd854cf5acf836",
-        "url":"files/assets/29815442/1/Data-Increase.mp3"
+        "url":"files/assets/Character/Data-Increase.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -14804,7 +14804,7 @@
         "filename":"Death-Impact.mp3",
         "size":47196,
         "hash":"456838d75ab275c4318ac2ad92f8bb6d",
-        "url":"files/assets/29816821/1/Death-Impact.mp3"
+        "url":"files/assets/Character/Death-Impact.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -14826,7 +14826,7 @@
         "filename":"Female-Death-1.mp3",
         "size":23003,
         "hash":"bdccb490b4ed2a78144e73472604c0e9",
-        "url":"files/assets/29816830/1/Female-Death-1.mp3"
+        "url":"files/assets/Character/Lilium/Female-Death-1.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -14902,7 +14902,7 @@
         "filename":"Whoosh.mp3",
         "size":8304,
         "hash":"9e1cddffd06954d88ca6569a40c22325",
-        "url":"files/assets/29817356/1/Whoosh.mp3"
+        "url":"files/assets/Character/Whoosh.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -15149,7 +15149,7 @@
         "variants":{
           
         },
-        "url":"files/assets/29908909/1/Venge-Logo.png"
+        "url":"files/assets/GUI/Venge-Logo.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -15581,7 +15581,7 @@
         "variants":{
           
         },
-        "url":"files/assets/29914542/1/Caret-Right.png"
+        "url":"files/assets/GUI/Caret-Right.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -17768,7 +17768,7 @@
         "variants":{
           
         },
-        "url":"files/assets/30025878/1/Health-Bar.png"
+        "url":"files/assets/GUI/HUD/Health-Bar.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -18323,7 +18323,7 @@
         "variants":{
           
         },
-        "url":"files/assets/30056404/1/Health-bars-Invert.png"
+        "url":"files/assets/GUI/HUD/Health-bars-Invert.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -18377,7 +18377,7 @@
         "variants":{
           
         },
-        "url":"files/assets/30056478/1/Enemy-Health-Bar-Background.png"
+        "url":"files/assets/GUI/HUD/Enemy-Health-Bar-Background.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -18431,7 +18431,7 @@
         "variants":{
           
         },
-        "url":"files/assets/30056479/1/Enemy-Health-Bar.png"
+        "url":"files/assets/GUI/HUD/Enemy-Health-Bar.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -18551,7 +18551,7 @@
         "filename":"Gangnam-Emote.mp3",
         "size":46543,
         "hash":"1ef402e5c0ff6bdda3e101adba85f9eb",
-        "url":"files/assets/30113338/1/Gangnam-Emote.mp3"
+        "url":"files/assets/Character/Gangnam-Emote.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -18573,7 +18573,7 @@
         "filename":"Female-Sigh.mp3",
         "size":29237,
         "hash":"3ff2204c6ab75d0c95884a36d3c9d6f6",
-        "url":"files/assets/30254802/1/Female-Sigh.mp3"
+        "url":"files/assets/Character/Lilium/Female-Sigh.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -26113,7 +26113,7 @@
         "variants":{
           
         },
-        "url":"files/assets/30608204/1/Lilium-Thumbnail-1.png"
+        "url":"files/assets/Character/Lilium/Lilium-Thumbnail-1.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -26167,7 +26167,7 @@
         "variants":{
           
         },
-        "url":"files/assets/30608288/1/Lilium-Thumbnail-2.png"
+        "url":"files/assets/Character/Lilium/Lilium-Thumbnail-2.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -26189,7 +26189,7 @@
         "filename":"Whoosh-Small.mp3",
         "size":6096,
         "hash":"61bc697d63dfec6e422caf1192e340ea",
-        "url":"files/assets/30609582/1/Whoosh-Small.mp3"
+        "url":"files/assets/Character/Whoosh-Small.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -26515,7 +26515,7 @@
         "filename":"fantastic.mp3",
         "size":16927,
         "hash":"b0a38b37aa04aa6a3a49fff167ac67b7",
-        "url":"files/assets/30644965/1/fantastic.mp3"
+        "url":"files/assets/Character/Lilium/fantastic.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -26537,7 +26537,7 @@
         "filename":"let-them-try-and-stop-me.mp3",
         "size":20238,
         "hash":"636ffbdc58e5b1f66167b2cb4b5b9a38",
-        "url":"files/assets/30644966/1/let-them-try-and-stop-me.mp3"
+        "url":"files/assets/Character/Lilium/let-them-try-and-stop-me.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -26581,7 +26581,7 @@
         "filename":"thats-one-for-the-record-books.mp3",
         "size":27333,
         "hash":"9ba360ef4c85212f031ec040ddbfd318",
-        "url":"files/assets/30644968/1/thats-one-for-the-record-books.mp3"
+        "url":"files/assets/Character/Lilium/thats-one-for-the-record-books.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -26603,7 +26603,7 @@
         "filename":"you-have-my-attention-now.mp3",
         "size":21693,
         "hash":"7bb8a4648e96eafa289c1acb373ea083",
-        "url":"files/assets/30644969/1/you-have-my-attention-now.mp3"
+        "url":"files/assets/Character/Lilium/you-have-my-attention-now.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -27311,7 +27311,7 @@
         "filename":"you-better-run-from-me.mp3",
         "size":28236,
         "hash":"5cf940eacb8a84b9e8b3e554a7c16734",
-        "url":"files/assets/30724203/1/you-better-run-from-me.mp3"
+        "url":"files/assets/Character/Lilium/you-better-run-from-me.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -27333,7 +27333,7 @@
         "filename":"next-time-you-wont-have-chance.mp3",
         "size":24849,
         "hash":"c4907b16b2131f4b673765a5be1eaac3",
-        "url":"files/assets/30724204/1/next-time-you-wont-have-chance.mp3"
+        "url":"files/assets/Character/Lilium/next-time-you-wont-have-chance.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -27387,7 +27387,7 @@
         "variants":{
           
         },
-        "url":"files/assets/30727249/1/Crosshair-Icon.png"
+        "url":"files/assets/GUI/HUD/Crosshair-Icon.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -27723,7 +27723,7 @@
         "filename":"catch-that.mp3",
         "size":16683,
         "hash":"89f67198d8ecbde9994cd8761c6e87d1",
-        "url":"files/assets/30838434/1/catch-that.mp3"
+        "url":"files/assets/Character/Lilium/catch-that.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -27745,7 +27745,7 @@
         "filename":"feeling-better.mp3",
         "size":19922,
         "hash":"761a2375ee5c61c8f42bd018e6353f77",
-        "url":"files/assets/30838435/1/feeling-better.mp3"
+        "url":"files/assets/Character/Lilium/feeling-better.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -27767,7 +27767,7 @@
         "filename":"thats-much-better.mp3",
         "size":15206,
         "hash":"77d86aea82260f052ffec7cc07ccf59f",
-        "url":"files/assets/30838436/1/thats-much-better.mp3"
+        "url":"files/assets/Character/Lilium/thats-much-better.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -27875,7 +27875,7 @@
         "variants":{
           
         },
-        "url":"files/assets/30842570/1/Kill-5x.png"
+        "url":"files/assets/GUI/HUD/Kill-5x.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -27929,7 +27929,7 @@
         "variants":{
           
         },
-        "url":"files/assets/30842571/1/Kill-4x.png"
+        "url":"files/assets/GUI/HUD/Kill-4x.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -27983,7 +27983,7 @@
         "variants":{
           
         },
-        "url":"files/assets/30842572/1/Kill-8x.png"
+        "url":"files/assets/GUI/HUD/Kill-8x.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -28037,7 +28037,7 @@
         "variants":{
           
         },
-        "url":"files/assets/30842573/1/Revenge-Icon.png"
+        "url":"files/assets/GUI/HUD/Revenge-Icon.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -28091,7 +28091,7 @@
         "variants":{
           
         },
-        "url":"files/assets/30842574/1/Kill-6x.png"
+        "url":"files/assets/GUI/HUD/Kill-6x.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -28145,7 +28145,7 @@
         "variants":{
           
         },
-        "url":"files/assets/30842576/1/Kill-7x.png"
+        "url":"files/assets/GUI/HUD/Kill-7x.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -28199,7 +28199,7 @@
         "variants":{
           
         },
-        "url":"files/assets/30842577/1/Kill-9x.png"
+        "url":"files/assets/GUI/HUD/Kill-9x.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -28253,7 +28253,7 @@
         "variants":{
           
         },
-        "url":"files/assets/30842578/1/Kill-3x.png"
+        "url":"files/assets/GUI/HUD/Kill-3x.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -28307,7 +28307,7 @@
         "variants":{
           
         },
-        "url":"files/assets/30842579/1/Kill-2x.png"
+        "url":"files/assets/GUI/HUD/Kill-2x.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -28361,7 +28361,7 @@
         "variants":{
           
         },
-        "url":"files/assets/30842580/1/Kill-Icon.png"
+        "url":"files/assets/GUI/HUD/Kill-Icon.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -30327,7 +30327,7 @@
         "filename":"Deep-Whoosh.mp3",
         "size":76128,
         "hash":"dcdb4e571e5bc59270e51c590c28f2e3",
-        "url":"files/assets/30959798/1/Deep-Whoosh.mp3"
+        "url":"files/assets/Character/Deep-Whoosh.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -30416,7 +30416,7 @@
         "variants":{
           
         },
-        "url":"files/assets/30964398/1/Scope_Texture.png"
+        "url":"files/assets/GUI/HUD/Scope_Texture.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -31093,7 +31093,7 @@
         "filename":"Gravel-Run-4.mp3",
         "size":8297,
         "hash":"7f27726bc346d743c91b5f22805eea4f",
-        "url":"files/assets/30982667/1/Gravel-Run-4.mp3"
+        "url":"files/assets/Character/Gravel-Run-4.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -31115,7 +31115,7 @@
         "filename":"Gravel-Run-2.mp3",
         "size":4383,
         "hash":"aa16f583481ca36a10f008ea5a9fd343",
-        "url":"files/assets/30982668/1/Gravel-Run-2.mp3"
+        "url":"files/assets/Character/Gravel-Run-2.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -31137,7 +31137,7 @@
         "filename":"Gravel-Run-1.mp3",
         "size":5741,
         "hash":"03952cf5866d5f49576edcf9dadc7da5",
-        "url":"files/assets/30982669/1/Gravel-Run-1.mp3"
+        "url":"files/assets/Character/Gravel-Run-1.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -31159,7 +31159,7 @@
         "filename":"Gravel-Run-3.mp3",
         "size":7409,
         "hash":"7786ef0c2bc2c87714985b8c462a522b",
-        "url":"files/assets/30982670/1/Gravel-Run-3.mp3"
+        "url":"files/assets/Character/Gravel-Run-3.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -31181,7 +31181,7 @@
         "filename":"Gravel-Run-5.mp3",
         "size":7565,
         "hash":"b42bdd7f31bc007b1fff4e53bf7eda6c",
-        "url":"files/assets/30982716/1/Gravel-Run-5.mp3"
+        "url":"files/assets/Character/Gravel-Run-5.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -31203,7 +31203,7 @@
         "filename":"Gravel-Run-6.mp3",
         "size":9705,
         "hash":"fcc41b507ba479fe988e5f8559853e0c",
-        "url":"files/assets/30982717/1/Gravel-Run-6.mp3"
+        "url":"files/assets/Character/Gravel-Run-6.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -31225,7 +31225,7 @@
         "filename":"Concrete-Run-6.mp3",
         "size":4643,
         "hash":"a6ea4bee866996bdc9ac777d1dfd4d05",
-        "url":"files/assets/30982735/1/Concrete-Run-6.mp3"
+        "url":"files/assets/Character/Concrete-Run-6.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -31247,7 +31247,7 @@
         "filename":"Concrete-Run-5.mp3",
         "size":4539,
         "hash":"c1851b4ae8b778510125fa943d7f73b2",
-        "url":"files/assets/30982736/1/Concrete-Run-5.mp3"
+        "url":"files/assets/Character/Concrete-Run-5.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -31269,7 +31269,7 @@
         "filename":"Concrete-Run-3.mp3",
         "size":3860,
         "hash":"4100f7dbc29e1df2c4456829efd7adc7",
-        "url":"files/assets/30982737/1/Concrete-Run-3.mp3"
+        "url":"files/assets/Character/Concrete-Run-3.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -31291,7 +31291,7 @@
         "filename":"Concrete-Run-2.mp3",
         "size":4904,
         "hash":"22fad49a242e25f22d20c711d94ae866",
-        "url":"files/assets/30982738/1/Concrete-Run-2.mp3"
+        "url":"files/assets/Character/Concrete-Run-2.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -31313,7 +31313,7 @@
         "filename":"Concrete-Run-1.mp3",
         "size":4330,
         "hash":"3190718287c9da3bf2f706c2d71fbaef",
-        "url":"files/assets/30982739/1/Concrete-Run-1.mp3"
+        "url":"files/assets/Character/Concrete-Run-1.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -31335,7 +31335,7 @@
         "filename":"Concrete-Run-4.mp3",
         "size":3651,
         "hash":"004732d2ff713081cb7c1a68ac8c0684",
-        "url":"files/assets/30982740/1/Concrete-Run-4.mp3"
+        "url":"files/assets/Character/Concrete-Run-4.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -31357,7 +31357,7 @@
         "filename":"Foley-2.mp3",
         "size":10907,
         "hash":"2424f0e58a45cf49c9c852447adf638a",
-        "url":"files/assets/30982784/1/Foley-2.mp3"
+        "url":"files/assets/Character/Foley-2.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -31379,7 +31379,7 @@
         "filename":"Foley-1.mp3",
         "size":8348,
         "hash":"8cd4d7a69cfc387b5d67ce334c914d90",
-        "url":"files/assets/30982785/1/Foley-1.mp3"
+        "url":"files/assets/Character/Foley-1.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -31401,7 +31401,7 @@
         "filename":"Electric-Collision.mp3",
         "size":13344,
         "hash":"71b88616b77163343f6f91ef593fcd47",
-        "url":"files/assets/30994017/1/Electric-Collision.mp3"
+        "url":"files/assets/Character/Electric-Collision.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -31423,7 +31423,7 @@
         "filename":"Laser-Loop.mp3",
         "size":13770,
         "hash":"4f3e7526b1a9f7a6154d50557b0a4397",
-        "url":"files/assets/30994018/1/Laser-Loop.mp3"
+        "url":"files/assets/Character/Laser-Loop.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -31772,7 +31772,7 @@
         "variants":{
           
         },
-        "url":"files/assets/30998399/1/Suicide-Icon.png"
+        "url":"files/assets/GUI/HUD/Suicide-Icon.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -32546,7 +32546,7 @@
         "filename":"Emergency-Alarm.mp3",
         "size":4848,
         "hash":"6dc1dbcbbf2729667152794b15e54bac",
-        "url":"files/assets/31073289/1/Emergency-Alarm.mp3"
+        "url":"files/assets/Character/Emergency-Alarm.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -33006,7 +33006,7 @@
         "variants":{
           
         },
-        "url":"files/assets/31125296/1/Throw-Icon.png"
+        "url":"files/assets/GUI/HUD/Throw-Icon.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -35592,7 +35592,7 @@
         "filename":"Show-time.mp3",
         "size":15697,
         "hash":"95854ddf2771a4b7c54998e97702b501",
-        "url":"files/assets/31199523/1/Show-time.mp3"
+        "url":"files/assets/Character/Lilium/Show-time.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -35614,7 +35614,7 @@
         "filename":"Shotgun-is-the-best.mp3",
         "size":24405,
         "hash":"f4896b36b2f4b9653ec436f5672f5684",
-        "url":"files/assets/31199524/1/Shotgun-is-the-best.mp3"
+        "url":"files/assets/Character/Lilium/Shotgun-is-the-best.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -35636,7 +35636,7 @@
         "filename":"I-like-that-one.mp3",
         "size":21561,
         "hash":"f0ad4f5384311ebfbeacc3e42733f045",
-        "url":"files/assets/31199525/1/I-like-that-one.mp3"
+        "url":"files/assets/Character/Lilium/I-like-that-one.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -36848,7 +36848,7 @@
         "variants":{
           
         },
-        "url":"files/assets/31221629/1/Objective-Label.png"
+        "url":"files/assets/GUI/HUD/Objective-Label.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -36902,7 +36902,7 @@
         "variants":{
           
         },
-        "url":"files/assets/31222966/1/Capture-Icon.png"
+        "url":"files/assets/GUI/HUD/Capture-Icon.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -36946,7 +36946,7 @@
         "filename":"Spell-Loop.mp3",
         "size":41088,
         "hash":"7454a43f1a165ccddf59b73718017bfb",
-        "url":"files/assets/31259097/1/Spell-Loop.mp3"
+        "url":"files/assets/Character/Spell-Loop.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -37317,7 +37317,7 @@
         "variants":{
           
         },
-        "url":"files/assets/31377553/1/Cards-Icon.png"
+        "url":"files/assets/GUI/HUD/Cards-Icon.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -37453,7 +37453,7 @@
         "variants":{
           
         },
-        "url":"files/assets/31393222/1/MidnightCurse-Card.png"
+        "url":"files/assets/GUI/Cards/MidnightCurse-Card.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -37507,7 +37507,7 @@
         "variants":{
           
         },
-        "url":"files/assets/31395064/1/MidnightCurse-32x.png"
+        "url":"files/assets/GUI/Cards/MidnightCurse-32x.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -37723,7 +37723,7 @@
         "variants":{
           
         },
-        "url":"files/assets/31418270/1/SparkySpells-32x.png"
+        "url":"files/assets/GUI/Cards/SparkySpells-32x.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -37777,7 +37777,7 @@
         "variants":{
           
         },
-        "url":"files/assets/31418271/1/SparkySpells-Card.png"
+        "url":"files/assets/GUI/Cards/SparkySpells-Card.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -38165,7 +38165,7 @@
         "variants":{
           
         },
-        "url":"files/assets/31436888/1/MidnightCurse-Icon.png"
+        "url":"files/assets/GUI/Cards/MidnightCurse-Icon.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -38219,7 +38219,7 @@
         "variants":{
           
         },
-        "url":"files/assets/31436930/1/SparkySpells-Icon.png"
+        "url":"files/assets/GUI/Cards/SparkySpells-Icon.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -38241,7 +38241,7 @@
         "filename":"Electric-2.mp3",
         "size":11424,
         "hash":"63cd69b3369d4648c6871e2fad2f0b4d",
-        "url":"files/assets/31436996/1/Electric-2.mp3"
+        "url":"files/assets/Character/Electric-2.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -38263,7 +38263,7 @@
         "filename":"Electric-3.mp3",
         "size":10848,
         "hash":"087c95462603f111c49596b1f3d4414b",
-        "url":"files/assets/31436997/1/Electric-3.mp3"
+        "url":"files/assets/Character/Electric-3.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -38285,7 +38285,7 @@
         "filename":"Electric-1.mp3",
         "size":11328,
         "hash":"21fd1c7c2c86c18c17213ef899451a4d",
-        "url":"files/assets/31436998/1/Electric-1.mp3"
+        "url":"files/assets/Character/Electric-1.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -41117,7 +41117,7 @@
         "variants":{
           
         },
-        "url":"files/assets/31526388/1/Caret-Icon.png"
+        "url":"files/assets/GUI/Caret-Icon.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -45713,7 +45713,7 @@
         "variants":{
           
         },
-        "url":"files/assets/31696239/1/Skull-Spritesheet.png"
+        "url":"files/assets/GUI/HUD/Skull-Spritesheet.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -46478,7 +46478,7 @@
         "variants":{
           
         },
-        "url":"files/assets/31761313/1/Gold-Icon.png"
+        "url":"files/assets/GUI/Gold-Icon.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -47413,7 +47413,7 @@
         "variants":{
           
         },
-        "url":"files/assets/32010010/1/FrostBomb-Card.png"
+        "url":"files/assets/GUI/Cards/FrostBomb-Card.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -47467,7 +47467,7 @@
         "variants":{
           
         },
-        "url":"files/assets/32010221/1/FrostBomb-32x.png"
+        "url":"files/assets/GUI/Cards/FrostBomb-32x.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -47521,7 +47521,7 @@
         "variants":{
           
         },
-        "url":"files/assets/32010222/1/FrostBomb-Icon.png"
+        "url":"files/assets/GUI/Cards/FrostBomb-Icon.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -47844,7 +47844,7 @@
         "variants":{
           
         },
-        "url":"files/assets/32062427/1/Unlock-Cards.png"
+        "url":"files/assets/GUI/HUD/Unlock-Cards.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -50228,7 +50228,7 @@
         "variants":{
           
         },
-        "url":"files/assets/32202795/1/Caret-Down.png"
+        "url":"files/assets/GUI/Caret-Down.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -50689,7 +50689,7 @@
         "variants":{
           
         },
-        "url":"files/assets/32409177/1/Ice-Texture.png"
+        "url":"files/assets/GUI/HUD/Ice-Texture.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -51900,7 +51900,7 @@
         "variants":{
           
         },
-        "url":"files/assets/32429796/1/Venom-Card.png"
+        "url":"files/assets/GUI/Cards/Venom-Card.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -52408,7 +52408,7 @@
         "filename":"Female-Fear.mp3",
         "size":42706,
         "hash":"8c895e9d5807fe2521296a45e03a2093",
-        "url":"files/assets/32430330/1/Female-Fear.mp3"
+        "url":"files/assets/Character/Lilium/Female-Fear.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -52468,7 +52468,7 @@
         "filename":"Heart-Beat.mp3",
         "size":4752,
         "hash":"053d6e59f96e5b8304764668ca2a25d5",
-        "url":"files/assets/32430400/1/Heart-Beat.mp3"
+        "url":"files/assets/Character/Heart-Beat.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -52544,7 +52544,7 @@
         "variants":{
           
         },
-        "url":"files/assets/32430425/1/Venom-32x.png"
+        "url":"files/assets/GUI/Cards/Venom-32x.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -52598,7 +52598,7 @@
         "variants":{
           
         },
-        "url":"files/assets/32430426/1/Venom-Icon.png"
+        "url":"files/assets/GUI/Cards/Venom-Icon.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -54964,7 +54964,7 @@
         "filename":"Whoosh-High.mp3",
         "size":19143,
         "hash":"1a4f19b27854d3bb3d92179686f60021",
-        "url":"files/assets/32583116/1/Whoosh-High.mp3"
+        "url":"files/assets/Character/Whoosh-High.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -55030,7 +55030,7 @@
         "filename":"Impact-Iron-Light.mp3",
         "size":22080,
         "hash":"484aff6a9ca4e7a098bc8722fe195cc8",
-        "url":"files/assets/32584342/1/Impact-Iron-Light.mp3"
+        "url":"files/assets/Character/Shin/Impact-Iron-Light.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -56005,7 +56005,7 @@
         "filename":"Buff-Attack-1.mp3",
         "size":32838,
         "hash":"91f017a087bee05835321d14c3ceb8e2",
-        "url":"files/assets/32638139/1/Buff-Attack-1.mp3"
+        "url":"files/assets/Character/Shin/Buff-Attack-1.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -56447,7 +56447,7 @@
         "filename":"Techno-Music.mp3",
         "size":33600,
         "hash":"727ca9edc5c5e62bea0c8023e381f372",
-        "url":"files/assets/33221668/1/Techno-Music.mp3"
+        "url":"files/assets/Character/Techno-Music.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -62338,7 +62338,7 @@
         "filename":"Gear-Loop.mp3",
         "size":69960,
         "hash":"69a22e0732856b3673bb206f66f288c5",
-        "url":"files/assets/33435992/1/Gear-Loop.mp3"
+        "url":"files/assets/Character/Gear-Loop.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -62461,7 +62461,7 @@
         "variants":{
           
         },
-        "url":"files/assets/33522591/1/gold-7.png"
+        "url":"files/assets/GUI/gold-7.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -62515,7 +62515,7 @@
         "variants":{
           
         },
-        "url":"files/assets/33522592/1/gold-6.png"
+        "url":"files/assets/GUI/gold-6.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -62569,7 +62569,7 @@
         "variants":{
           
         },
-        "url":"files/assets/33522593/1/gold-4.png"
+        "url":"files/assets/GUI/gold-4.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -62623,7 +62623,7 @@
         "variants":{
           
         },
-        "url":"files/assets/33522594/1/gold-3.png"
+        "url":"files/assets/GUI/gold-3.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -62677,7 +62677,7 @@
         "variants":{
           
         },
-        "url":"files/assets/33522595/1/gold-5.png"
+        "url":"files/assets/GUI/gold-5.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -62731,7 +62731,7 @@
         "variants":{
           
         },
-        "url":"files/assets/33522596/1/gold-2.png"
+        "url":"files/assets/GUI/gold-2.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -62785,7 +62785,7 @@
         "variants":{
           
         },
-        "url":"files/assets/33522597/1/gold-1.png"
+        "url":"files/assets/GUI/gold-1.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -63669,7 +63669,7 @@
         "filename":"Flair-Music.mp3",
         "size":65880,
         "hash":"57c22ed40f75c7b057bebe0efc4dc16e",
-        "url":"files/assets/33611019/1/Flair-Music.mp3"
+        "url":"files/assets/Character/Flair-Music.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -83769,7 +83769,7 @@
         "filename":"Snow-Run-4.mp3",
         "size":18931,
         "hash":"bd74b79603db11b7db76e8e2b4b80d18",
-        "url":"files/assets/34753418/1/Snow-Run-4.mp3"
+        "url":"files/assets/Character/Snow-Run-4.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -83791,7 +83791,7 @@
         "filename":"Snow-Run-6.mp3",
         "size":19451,
         "hash":"9b81013d724ce94e9c478ed5d90f2478",
-        "url":"files/assets/34753419/1/Snow-Run-6.mp3"
+        "url":"files/assets/Character/Snow-Run-6.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -83813,7 +83813,7 @@
         "filename":"Snow-Run-1.mp3",
         "size":19138,
         "hash":"c8f3c013156939def6920d816beaea17",
-        "url":"files/assets/34753420/1/Snow-Run-1.mp3"
+        "url":"files/assets/Character/Snow-Run-1.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -83835,7 +83835,7 @@
         "filename":"Snow-Run-5.mp3",
         "size":17938,
         "hash":"9b3fa6d341fcb172b71b123642ac1fe5",
-        "url":"files/assets/34753421/1/Snow-Run-5.mp3"
+        "url":"files/assets/Character/Snow-Run-5.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -83857,7 +83857,7 @@
         "filename":"Snow-Run-3.mp3",
         "size":18823,
         "hash":"fdfca4bd5713703e3b4275b0daaebda2",
-        "url":"files/assets/34753422/1/Snow-Run-3.mp3"
+        "url":"files/assets/Character/Snow-Run-3.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -83879,7 +83879,7 @@
         "filename":"Snow-Run-2.mp3",
         "size":18305,
         "hash":"cd0e4e847d6e7290743175853fc80f0f",
-        "url":"files/assets/34753423/1/Snow-Run-2.mp3"
+        "url":"files/assets/Character/Snow-Run-2.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -84899,7 +84899,7 @@
         "variants":{
           
         },
-        "url":"files/assets/34788636/1/Death-Icon.png"
+        "url":"files/assets/GUI/HUD/Death-Icon.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -84990,7 +84990,7 @@
         "variants":{
           
         },
-        "url":"files/assets/34823030/1/Kill-360d.png"
+        "url":"files/assets/GUI/HUD/Kill-360d.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -85044,7 +85044,7 @@
         "variants":{
           
         },
-        "url":"files/assets/34823031/1/Kill-DoubleBarrelled.png"
+        "url":"files/assets/GUI/HUD/Kill-DoubleBarrelled.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -85098,7 +85098,7 @@
         "variants":{
           
         },
-        "url":"files/assets/34823032/1/Kill-Pumped.png"
+        "url":"files/assets/GUI/HUD/Kill-Pumped.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -85152,7 +85152,7 @@
         "variants":{
           
         },
-        "url":"files/assets/34823033/1/Kill-Drilled.png"
+        "url":"files/assets/GUI/HUD/Kill-Drilled.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -85206,7 +85206,7 @@
         "variants":{
           
         },
-        "url":"files/assets/34823034/1/Kill-PickedOff.png"
+        "url":"files/assets/GUI/HUD/Kill-PickedOff.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -85260,7 +85260,7 @@
         "variants":{
           
         },
-        "url":"files/assets/34823035/1/Kill-Nailed.png"
+        "url":"files/assets/GUI/HUD/Kill-Nailed.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -95267,7 +95267,7 @@
         "variants":{
           
         },
-        "url":"files/assets/36675168/1/Rank-5.png"
+        "url":"files/assets/GUI/HUD/Rank-5.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -95321,7 +95321,7 @@
         "variants":{
           
         },
-        "url":"files/assets/36675169/1/Rank-6.png"
+        "url":"files/assets/GUI/HUD/Rank-6.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -95375,7 +95375,7 @@
         "variants":{
           
         },
-        "url":"files/assets/36675170/1/Rank-4.png"
+        "url":"files/assets/GUI/HUD/Rank-4.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -95429,7 +95429,7 @@
         "variants":{
           
         },
-        "url":"files/assets/36675171/1/Rank-8.png"
+        "url":"files/assets/GUI/HUD/Rank-8.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -95483,7 +95483,7 @@
         "variants":{
           
         },
-        "url":"files/assets/36675172/1/Rank-7.png"
+        "url":"files/assets/GUI/HUD/Rank-7.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -95537,7 +95537,7 @@
         "variants":{
           
         },
-        "url":"files/assets/36675173/1/Rank-2.png"
+        "url":"files/assets/GUI/HUD/Rank-2.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -95591,7 +95591,7 @@
         "variants":{
           
         },
-        "url":"files/assets/36675174/1/Rank-1.png"
+        "url":"files/assets/GUI/HUD/Rank-1.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -95645,7 +95645,7 @@
         "variants":{
           
         },
-        "url":"files/assets/36675175/1/Rank-3.png"
+        "url":"files/assets/GUI/HUD/Rank-3.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -95667,7 +95667,7 @@
         "filename":"Rank-Up.mp3",
         "size":80295,
         "hash":"88fe96a26fb1185d61e33dc37b5418ac",
-        "url":"files/assets/36675266/1/Rank-Up.mp3"
+        "url":"files/assets/Character/Rank-Up.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -95689,7 +95689,7 @@
         "filename":"Rank-Up-2.mp3",
         "size":79747,
         "hash":"d243501eae8d6d001dd3735c907dbfd7",
-        "url":"files/assets/36675267/1/Rank-Up-2.mp3"
+        "url":"files/assets/Character/Rank-Up-2.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -104519,7 +104519,7 @@
         "filename":"Foley-Strong.mp3",
         "size":20160,
         "hash":"f24dbe7f9820c815443ac90f68a17d1e",
-        "url":"files/assets/37359276/1/Foley-Strong.mp3"
+        "url":"files/assets/Character/Foley-Strong.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -104541,7 +104541,7 @@
         "filename":"Foley-Gear.mp3",
         "size":22464,
         "hash":"5cb4a0c8e7c616ab9b9fc3c97c429c9c",
-        "url":"files/assets/37359277/1/Foley-Gear.mp3"
+        "url":"files/assets/Character/Foley-Gear.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -108283,7 +108283,7 @@
         "filename":"TrueBorn-Music.mp3",
         "size":133136,
         "hash":"04f7d238674f2b3defcb39b4e252ff3d",
-        "url":"files/assets/37577383/1/TrueBorn-Music.mp3"
+        "url":"files/assets/Character/TrueBorn-Music.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -126169,7 +126169,7 @@
         "filename":"Thunder-Rain-Ambient.mp3",
         "size":454320,
         "hash":"438c8874dd420f43d795d74c73ff3084",
-        "url":"files/assets/40416580/1/Thunder-Rain-Ambient.mp3"
+        "url":"files/assets/Character/Thunder-Rain-Ambient.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -127076,7 +127076,7 @@
         "filename":"Mud-Run-6.mp3",
         "size":9705,
         "hash":"516f04248f9daac381ab657c3073488c",
-        "url":"files/assets/40421249/1/Mud-Run-6.mp3"
+        "url":"files/assets/Character/Mud-Run-6.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -127098,7 +127098,7 @@
         "filename":"Mud-Run-5.mp3",
         "size":8034,
         "hash":"387ebd82141644651dcc6ca8fccecfdf",
-        "url":"files/assets/40421250/1/Mud-Run-5.mp3"
+        "url":"files/assets/Character/Mud-Run-5.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -127120,7 +127120,7 @@
         "filename":"Mud-Run-3.mp3",
         "size":8661,
         "hash":"4b51803be03fd75b423c12b1c8805e7c",
-        "url":"files/assets/40421251/1/Mud-Run-3.mp3"
+        "url":"files/assets/Character/Mud-Run-3.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -127142,7 +127142,7 @@
         "filename":"Mud-Run-1.mp3",
         "size":9158,
         "hash":"27cd8c1fde434133e00856810b960c2b",
-        "url":"files/assets/40421252/1/Mud-Run-1.mp3"
+        "url":"files/assets/Character/Mud-Run-1.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -127164,7 +127164,7 @@
         "filename":"Mud-Run-4.mp3",
         "size":8609,
         "hash":"2cd7bfadda919eb8e6ca00304748376b",
-        "url":"files/assets/40421253/1/Mud-Run-4.mp3"
+        "url":"files/assets/Character/Mud-Run-4.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -127186,7 +127186,7 @@
         "filename":"Mud-Run-2.mp3",
         "size":10124,
         "hash":"8f47f33f6696e525d901b93f7b0bea44",
-        "url":"files/assets/40421254/1/Mud-Run-2.mp3"
+        "url":"files/assets/Character/Mud-Run-2.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -128606,7 +128606,7 @@
         "filename":"Collapse-A.mp3",
         "size":119328,
         "hash":"e97f91c62fff510fdff96461a659efba",
-        "url":"files/assets/40467955/1/Collapse-A.mp3"
+        "url":"files/assets/Character/Collapse-A.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -129193,7 +129193,7 @@
         "filename":"Collapse-4x.mp3",
         "size":102552,
         "hash":"94213d4c162f9ac70375bac10379a065",
-        "url":"files/assets/40520442/1/Collapse-4x.mp3"
+        "url":"files/assets/Character/Collapse-4x.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -129215,7 +129215,7 @@
         "filename":"Collapse-3x.mp3",
         "size":112368,
         "hash":"8d425bf7a67f0bc019b7240a3aedf70c",
-        "url":"files/assets/40520443/1/Collapse-3x.mp3"
+        "url":"files/assets/Character/Collapse-3x.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -129237,7 +129237,7 @@
         "filename":"Collapse-5x.mp3",
         "size":105216,
         "hash":"f6ac274235b35f7f57992c84a25cebd9",
-        "url":"files/assets/40520444/1/Collapse-5x.mp3"
+        "url":"files/assets/Character/Collapse-5x.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -129259,7 +129259,7 @@
         "filename":"Collapse-2x.mp3",
         "size":119184,
         "hash":"d464fbb9878ae0ee86c4893ae1c233a4",
-        "url":"files/assets/40520445/1/Collapse-2x.mp3"
+        "url":"files/assets/Character/Collapse-2x.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -132598,7 +132598,7 @@
         "filename":"Spray-Sound.mp3",
         "size":25776,
         "hash":"907de91148cd383c16a9f996199d8112",
-        "url":"files/assets/41178025/1/Spray-Sound.mp3"
+        "url":"files/assets/Character/Spray-Sound.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -154324,7 +154324,7 @@
         "filename":"Respawn-Sound.mp3",
         "size":31099,
         "hash":"13ecf8f549bd37964f11826494b9fb76",
-        "url":"files/assets/41887604/1/Respawn-Sound.mp3"
+        "url":"files/assets/Character/Respawn-Sound.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -164702,7 +164702,7 @@
         "variants":{
           
         },
-        "url":"files/assets/43426464/1/Stars-4.png"
+        "url":"files/assets/GUI/Stars-4.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -164756,7 +164756,7 @@
         "variants":{
           
         },
-        "url":"files/assets/43426465/1/Stars-5.png"
+        "url":"files/assets/GUI/Stars-5.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -164810,7 +164810,7 @@
         "variants":{
           
         },
-        "url":"files/assets/43426466/1/Stars-3.png"
+        "url":"files/assets/GUI/Stars-3.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -164864,7 +164864,7 @@
         "variants":{
           
         },
-        "url":"files/assets/43426467/1/Stars-2.png"
+        "url":"files/assets/GUI/Stars-2.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -164918,7 +164918,7 @@
         "variants":{
           
         },
-        "url":"files/assets/43426468/1/Stars-1.png"
+        "url":"files/assets/GUI/Stars-1.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -166264,7 +166264,7 @@
         "variants":{
           
         },
-        "url":"files/assets/44166087/1/Venge-Logo-2.png"
+        "url":"files/assets/GUI/Venge-Logo-2.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -167725,7 +167725,7 @@
         "filename":"Trap-Music.mp3",
         "size":207284,
         "hash":"eab4b35e7fe9be49b7f01b900d345b7f",
-        "url":"files/assets/45312507/1/Trap-Music.mp3"
+        "url":"files/assets/Character/Trap-Music.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -169689,7 +169689,7 @@
         "hash":"2ae6077dc0720ae3bfd91399e1aff4dc",
         "size":60964,
         "filename":"Glider.glb",
-        "url":"files/assets/45719383/1/Glider.glb"
+        "url":"files/assets/Character/Glider.glb"
       },
       "i18n":{
         
@@ -169985,7 +169985,7 @@
         "variants":{
           
         },
-        "url":"files/assets/45719385/1/Glider_AmbientOcclusion1K.jpg"
+        "url":"files/assets/Character/Glider_AmbientOcclusion1K.jpg"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -170039,7 +170039,7 @@
         "variants":{
           
         },
-        "url":"files/assets/45719386/1/Glider_BaseColor1K.jpg"
+        "url":"files/assets/Character/Glider_BaseColor1K.jpg"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -170449,7 +170449,7 @@
         "filename":"parachute.mp3",
         "size":24525,
         "hash":"ebf5f1a9b4a97ae27570d07c538ce144",
-        "url":"files/assets/45867723/1/parachute.mp3"
+        "url":"files/assets/Character/parachute.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -170471,7 +170471,7 @@
         "filename":"parachute-fall.mp3",
         "size":92540,
         "hash":"b691b52132cba4a4ab1514a68b87c1a8",
-        "url":"files/assets/45868272/1/parachute-fall.mp3"
+        "url":"files/assets/Character/parachute-fall.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
