@@ -9231,7 +9231,7 @@
         "filename":"Footsteps.mp3",
         "size":33024,
         "hash":"605144496af52326ca6e8031c7d695bd",
-        "url":"files/assets/Character/Footsteps.mp3"
+        "url":"files/assets/Unused Files/Footsteps.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -18551,7 +18551,7 @@
         "filename":"Gangnam-Emote.mp3",
         "size":46543,
         "hash":"1ef402e5c0ff6bdda3e101adba85f9eb",
-        "url":"files/assets/Character/Gangnam-Emote.mp3"
+        "url":"files/assets/Unused Files/Gangnam-Emote.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -23770,7 +23770,7 @@
         "filename":"Explosion-1.mp3",
         "size":49248,
         "hash":"9161ce86a67be614d9e157c1337f2f3a",
-        "url":"files/assets/30563922/1/Explosion-1.mp3"
+        "url":"files/assets/Abilities/Lilium/Explosion-1.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -31093,7 +31093,7 @@
         "filename":"Gravel-Run-4.mp3",
         "size":8297,
         "hash":"7f27726bc346d743c91b5f22805eea4f",
-        "url":"files/assets/Character/Gravel-Run-4.mp3"
+        "url":"files/assets/Footsteps/Gravel/Gravel-Run-4.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -31115,7 +31115,7 @@
         "filename":"Gravel-Run-2.mp3",
         "size":4383,
         "hash":"aa16f583481ca36a10f008ea5a9fd343",
-        "url":"files/assets/Character/Gravel-Run-2.mp3"
+        "url":"files/assets/Footsteps/Gravel/Gravel-Run-2.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -31137,7 +31137,7 @@
         "filename":"Gravel-Run-1.mp3",
         "size":5741,
         "hash":"03952cf5866d5f49576edcf9dadc7da5",
-        "url":"files/assets/Character/Gravel-Run-1.mp3"
+        "url":"files/assets/Footsteps/Gravel/Gravel-Run-1.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -31159,7 +31159,7 @@
         "filename":"Gravel-Run-3.mp3",
         "size":7409,
         "hash":"7786ef0c2bc2c87714985b8c462a522b",
-        "url":"files/assets/Character/Gravel-Run-3.mp3"
+        "url":"files/assets/Footsteps/Gravel/Gravel-Run-3.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -31181,7 +31181,7 @@
         "filename":"Gravel-Run-5.mp3",
         "size":7565,
         "hash":"b42bdd7f31bc007b1fff4e53bf7eda6c",
-        "url":"files/assets/Character/Gravel-Run-5.mp3"
+        "url":"files/assets/Footsteps/Gravel/Gravel-Run-5.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -31203,7 +31203,7 @@
         "filename":"Gravel-Run-6.mp3",
         "size":9705,
         "hash":"fcc41b507ba479fe988e5f8559853e0c",
-        "url":"files/assets/Character/Gravel-Run-6.mp3"
+        "url":"files/assets/Footsteps/Gravel/Gravel-Run-6.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -31225,7 +31225,7 @@
         "filename":"Concrete-Run-6.mp3",
         "size":4643,
         "hash":"a6ea4bee866996bdc9ac777d1dfd4d05",
-        "url":"files/assets/Character/Concrete-Run-6.mp3"
+        "url":"files/assets/Footsteps/Concrete/Concrete-Run-6.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -31247,7 +31247,7 @@
         "filename":"Concrete-Run-5.mp3",
         "size":4539,
         "hash":"c1851b4ae8b778510125fa943d7f73b2",
-        "url":"files/assets/Character/Concrete-Run-5.mp3"
+        "url":"files/assets/Footsteps/Concrete/Concrete-Run-5.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -31269,7 +31269,7 @@
         "filename":"Concrete-Run-3.mp3",
         "size":3860,
         "hash":"4100f7dbc29e1df2c4456829efd7adc7",
-        "url":"files/assets/Character/Concrete-Run-3.mp3"
+        "url":"files/assets/Footsteps/Concrete/Concrete-Run-3.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -31291,7 +31291,7 @@
         "filename":"Concrete-Run-2.mp3",
         "size":4904,
         "hash":"22fad49a242e25f22d20c711d94ae866",
-        "url":"files/assets/Character/Concrete-Run-2.mp3"
+        "url":"files/assets/Footsteps/Concrete/Concrete-Run-2.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -31313,7 +31313,7 @@
         "filename":"Concrete-Run-1.mp3",
         "size":4330,
         "hash":"3190718287c9da3bf2f706c2d71fbaef",
-        "url":"files/assets/Character/Concrete-Run-1.mp3"
+        "url":"files/assets/Footsteps/Concrete/Concrete-Run-1.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -31335,7 +31335,7 @@
         "filename":"Concrete-Run-4.mp3",
         "size":3651,
         "hash":"004732d2ff713081cb7c1a68ac8c0684",
-        "url":"files/assets/Character/Concrete-Run-4.mp3"
+        "url":"files/assets/Footsteps/Concrete/Concrete-Run-4.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -31423,7 +31423,7 @@
         "filename":"Laser-Loop.mp3",
         "size":13770,
         "hash":"4f3e7526b1a9f7a6154d50557b0a4397",
-        "url":"files/assets/Character/Laser-Loop.mp3"
+        "url":"files/assets/Abilities/Lilium/Laser-Loop.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -32546,7 +32546,7 @@
         "filename":"Emergency-Alarm.mp3",
         "size":4848,
         "hash":"6dc1dbcbbf2729667152794b15e54bac",
-        "url":"files/assets/Character/Emergency-Alarm.mp3"
+        "url":"files/assets/Abilities/Lilium/Emergency-Alarm.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -36968,7 +36968,7 @@
         "filename":"Impact-Iron.mp3",
         "size":26712,
         "hash":"f8609d31bce114af121ccab9f3a9adde",
-        "url":"files/assets/31259133/1/Impact-Iron.mp3"
+        "url":"files/assets/Abilities/Lilium/Hammer/Impact-Iron.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -38241,7 +38241,7 @@
         "filename":"Electric-2.mp3",
         "size":11424,
         "hash":"63cd69b3369d4648c6871e2fad2f0b4d",
-        "url":"files/assets/Character/Electric-2.mp3"
+        "url":"files/assets/Abilities/Extra Effects/Electric-2.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -38263,7 +38263,7 @@
         "filename":"Electric-3.mp3",
         "size":10848,
         "hash":"087c95462603f111c49596b1f3d4414b",
-        "url":"files/assets/Character/Electric-3.mp3"
+        "url":"files/assets/Abilities/Extra Effects/Electric-3.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -38285,7 +38285,7 @@
         "filename":"Electric-1.mp3",
         "size":11328,
         "hash":"21fd1c7c2c86c18c17213ef899451a4d",
-        "url":"files/assets/Character/Electric-1.mp3"
+        "url":"files/assets/Abilities/Extra Effects/Electric-1.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -46526,7 +46526,7 @@
         "hash":"70b9ad982d1a60af1a49005ec2d06856",
         "size":110098,
         "filename":"Lilium-Techno-Animation.json",
-        "url":"files/assets/31838516/1/Lilium-Techno-Animation.json"
+        "url":"files/assets/Cosmetics/Emotes/Animations/Lilium/Lilium-Techno-Animation.json"
       },
       "i18n":{
         
@@ -53145,7 +53145,7 @@
         "hash":"b34bd99210f3d60a4666162b6e6c1900",
         "size":113752,
         "filename":"Shin-Techno-Animation.json",
-        "url":"files/assets/32464430/1/Shin-Techno-Animation.json"
+        "url":"files/assets/Cosmetics/Emotes/Animations/Shin/Shin-Techno-Animation.json"
       },
       "i18n":{
         
@@ -56447,7 +56447,7 @@
         "filename":"Techno-Music.mp3",
         "size":33600,
         "hash":"727ca9edc5c5e62bea0c8023e381f372",
-        "url":"files/assets/Character/Techno-Music.mp3"
+        "url":"files/assets/Cosmetics/Emotes/Techno-Music.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -63669,7 +63669,7 @@
         "filename":"Flair-Music.mp3",
         "size":65880,
         "hash":"57c22ed40f75c7b057bebe0efc4dc16e",
-        "url":"files/assets/Character/Flair-Music.mp3"
+        "url":"files/assets/Cosmetics/Emotes/Flair-Music.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -63695,7 +63695,7 @@
         "hash":"af9fb397045706b4c0c9c6928359aa62",
         "size":128432,
         "filename":"Lilium-Flair-Animation.json",
-        "url":"files/assets/33611101/1/Lilium-Flair-Animation.json"
+        "url":"files/assets/Cosmetics/Emotes/Animations/Lilium/Lilium-Flair-Animation.json"
       },
       "i18n":{
         
@@ -63720,7 +63720,7 @@
         "hash":"4689a01c5bd9c8bc5dd52334197ee16a",
         "size":69514,
         "filename":"Shin-Flair-Animation.json",
-        "url":"files/assets/33611524/1/Shin-Flair-Animation.json"
+        "url":"files/assets/Cosmetics/Emotes/Animations/Shin/Shin-Flair-Animation.json"
       },
       "i18n":{
         
@@ -83769,7 +83769,7 @@
         "filename":"Snow-Run-4.mp3",
         "size":18931,
         "hash":"bd74b79603db11b7db76e8e2b4b80d18",
-        "url":"files/assets/Character/Snow-Run-4.mp3"
+        "url":"files/assets/Footsteps/Snow/Snow-Run-4.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -83791,7 +83791,7 @@
         "filename":"Snow-Run-6.mp3",
         "size":19451,
         "hash":"9b81013d724ce94e9c478ed5d90f2478",
-        "url":"files/assets/Character/Snow-Run-6.mp3"
+        "url":"files/assets/Footsteps/Snow/Snow-Run-6.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -83813,7 +83813,7 @@
         "filename":"Snow-Run-1.mp3",
         "size":19138,
         "hash":"c8f3c013156939def6920d816beaea17",
-        "url":"files/assets/Character/Snow-Run-1.mp3"
+        "url":"files/assets/Footsteps/Snow/Snow-Run-1.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -83835,7 +83835,7 @@
         "filename":"Snow-Run-5.mp3",
         "size":17938,
         "hash":"9b3fa6d341fcb172b71b123642ac1fe5",
-        "url":"files/assets/Character/Snow-Run-5.mp3"
+        "url":"files/assets/Footsteps/Snow/Snow-Run-5.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -83857,7 +83857,7 @@
         "filename":"Snow-Run-3.mp3",
         "size":18823,
         "hash":"fdfca4bd5713703e3b4275b0daaebda2",
-        "url":"files/assets/Character/Snow-Run-3.mp3"
+        "url":"files/assets/Footsteps/Snow/Snow-Run-3.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -83879,7 +83879,7 @@
         "filename":"Snow-Run-2.mp3",
         "size":18305,
         "hash":"cd0e4e847d6e7290743175853fc80f0f",
-        "url":"files/assets/Character/Snow-Run-2.mp3"
+        "url":"files/assets/Footsteps/Snow/Snow-Run-2.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -103259,7 +103259,7 @@
         "hash":"1e5e8702357156f9ca8fa5faf94e7931",
         "size":106260,
         "filename":"Echo-Techno-Animation.glb",
-        "url":"files/assets/37221003/1/Echo-Techno-Animation.glb"
+        "url":"files/assets/Cosmetics/Emotes/Animations/Echo/Echo-Techno-Animation.glb"
       },
       "i18n":{
         
@@ -108046,7 +108046,7 @@
         "hash":"08033af69dbbfb97f79cc45704e2154c",
         "size":106380,
         "filename":"Echo-Flair-Animation.glb",
-        "url":"files/assets/37491695/1/Echo-Flair-Animation.glb"
+        "url":"files/assets/Cosmetics/Emotes/Animations/Echo/Echo-Flair-Animation.glb"
       },
       "i18n":{
         
@@ -108283,7 +108283,7 @@
         "filename":"TrueBorn-Music.mp3",
         "size":133136,
         "hash":"04f7d238674f2b3defcb39b4e252ff3d",
-        "url":"files/assets/Character/TrueBorn-Music.mp3"
+        "url":"files/assets/Cosmetics/Emotes/TrueBorn-Music.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -108309,7 +108309,7 @@
         "hash":"6d07387482812a487f6b48a6fa0ef5d0",
         "size":71648,
         "filename":"Echo-TrueBorn-Animation.glb",
-        "url":"files/assets/37577389/1/Echo-TrueBorn-Animation.glb"
+        "url":"files/assets/Cosmetics/Emotes/Animations/Echo/Echo-TrueBorn-Animation.glb"
       },
       "i18n":{
         
@@ -108334,7 +108334,7 @@
         "hash":"5e1b7aefcdcf7cad614b8df83716dfcf",
         "size":70568,
         "filename":"Lilium-TrueBorn-Animation.json",
-        "url":"files/assets/37577442/1/Lilium-TrueBorn-Animation.json"
+        "url":"files/assets/Cosmetics/Emotes/Animations/Lilium/Lilium-TrueBorn-Animation.json"
       },
       "i18n":{
         
@@ -108359,7 +108359,7 @@
         "hash":"9363576d12a1c3d23231dd38274fa374",
         "size":51058,
         "filename":"Shin-TrueBorn-Animation.json",
-        "url":"files/assets/37577451/1/Shin-TrueBorn-Animation.json"
+        "url":"files/assets/Cosmetics/Emotes/Animations/Shin/Shin-TrueBorn-Animation.json"
       },
       "i18n":{
         
@@ -127076,7 +127076,7 @@
         "filename":"Mud-Run-6.mp3",
         "size":9705,
         "hash":"516f04248f9daac381ab657c3073488c",
-        "url":"files/assets/Character/Mud-Run-6.mp3"
+        "url":"files/assets/Footsteps/Mud/Mud-Run-6.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -127098,7 +127098,7 @@
         "filename":"Mud-Run-5.mp3",
         "size":8034,
         "hash":"387ebd82141644651dcc6ca8fccecfdf",
-        "url":"files/assets/Character/Mud-Run-5.mp3"
+        "url":"files/assets/Footsteps/Mud/Mud-Run-5.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -127120,7 +127120,7 @@
         "filename":"Mud-Run-3.mp3",
         "size":8661,
         "hash":"4b51803be03fd75b423c12b1c8805e7c",
-        "url":"files/assets/Character/Mud-Run-3.mp3"
+        "url":"files/assets/Footsteps/Mud/Mud-Run-3.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -127142,7 +127142,7 @@
         "filename":"Mud-Run-1.mp3",
         "size":9158,
         "hash":"27cd8c1fde434133e00856810b960c2b",
-        "url":"files/assets/Character/Mud-Run-1.mp3"
+        "url":"files/assets/Footsteps/Mud/Mud-Run-1.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -127164,7 +127164,7 @@
         "filename":"Mud-Run-4.mp3",
         "size":8609,
         "hash":"2cd7bfadda919eb8e6ca00304748376b",
-        "url":"files/assets/Character/Mud-Run-4.mp3"
+        "url":"files/assets/Footsteps/Mud/Mud-Run-4.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -127186,7 +127186,7 @@
         "filename":"Mud-Run-2.mp3",
         "size":10124,
         "hash":"8f47f33f6696e525d901b93f7b0bea44",
-        "url":"files/assets/Character/Mud-Run-2.mp3"
+        "url":"files/assets/Footsteps/Mud/Mud-Run-2.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -128606,7 +128606,7 @@
         "filename":"Collapse-A.mp3",
         "size":119328,
         "hash":"e97f91c62fff510fdff96461a659efba",
-        "url":"files/assets/Character/Collapse-A.mp3"
+        "url":"files/assets/Gamemode/Black Coin/Collapse-A.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -129193,7 +129193,7 @@
         "filename":"Collapse-4x.mp3",
         "size":102552,
         "hash":"94213d4c162f9ac70375bac10379a065",
-        "url":"files/assets/Character/Collapse-4x.mp3"
+        "url":"files/assets/Gamemode/Black Coin/Collapse-4x.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -129215,7 +129215,7 @@
         "filename":"Collapse-3x.mp3",
         "size":112368,
         "hash":"8d425bf7a67f0bc019b7240a3aedf70c",
-        "url":"files/assets/Character/Collapse-3x.mp3"
+        "url":"files/assets/Gamemode/Black Coin/Collapse-3x.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -129237,7 +129237,7 @@
         "filename":"Collapse-5x.mp3",
         "size":105216,
         "hash":"f6ac274235b35f7f57992c84a25cebd9",
-        "url":"files/assets/Character/Collapse-5x.mp3"
+        "url":"files/assets/Gamemode/Black Coin/Collapse-5x.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -129259,7 +129259,7 @@
         "filename":"Collapse-2x.mp3",
         "size":119184,
         "hash":"d464fbb9878ae0ee86c4893ae1c233a4",
-        "url":"files/assets/Character/Collapse-2x.mp3"
+        "url":"files/assets/Gamemode/Black Coin/Collapse-2x.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -167725,7 +167725,7 @@
         "filename":"Trap-Music.mp3",
         "size":207284,
         "hash":"eab4b35e7fe9be49b7f01b900d345b7f",
-        "url":"files/assets/Character/Trap-Music.mp3"
+        "url":"files/assets/Cosmetics/Emotes/Trap-Music.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -167805,7 +167805,7 @@
         "hash":"962c5ad25087bc0cb0c647aeadea8c5c",
         "size":22805,
         "filename":"Shin-Trap-Animation.json",
-        "url":"files/assets/45414231/1/Shin-Trap-Animation.json"
+        "url":"files/assets/Cosmetics/Emotes/Animations/Shin/Shin-Trap-Animation.json"
       },
       "i18n":{
         
@@ -167830,7 +167830,7 @@
         "hash":"7c65830842b4292498d8764d4d540dfb",
         "size":53115,
         "filename":"Lilium-Trap-Animation.json",
-        "url":"files/assets/45414235/1/Lilium-Trap-Animation.json"
+        "url":"files/assets/Cosmetics/Emotes/Animations/Lilium/Lilium-Trap-Animation.json"
       },
       "i18n":{
         
@@ -167855,7 +167855,7 @@
         "hash":"c79afe116acfb837dd4306335743226b",
         "size":67740,
         "filename":"Echo-Trap-Animation.glb",
-        "url":"files/assets/45414254/1/Echo-Trap-Animation.glb"
+        "url":"files/assets/Cosmetics/Emotes/Animations/Echo/Echo-Trap-Animation.glb"
       },
       "i18n":{
         
