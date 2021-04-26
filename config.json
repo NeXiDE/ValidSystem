@@ -14782,7 +14782,7 @@
         "variants":{
           
         },
-        "url":"files/assets/29816803/1/Circle.png"
+        "url":"files/assets/GUI/Circle.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -27647,7 +27647,7 @@
         "variants":{
           
         },
-        "url":"files/assets/30749126/1/Timer-Circle.png"
+        "url":"files/assets/GUI/Timer-Circle.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -34397,7 +34397,7 @@
         "variants":{
           
         },
-        "url":"files/assets/31181424/1/Circle-256x.png"
+        "url":"files/assets/GUI/Circle-256x.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -34505,7 +34505,7 @@
         "variants":{
           
         },
-        "url":"files/assets/31181667/1/Circle-Stroke-256x.png"
+        "url":"files/assets/GUI/Circle-Stroke-256x.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -47965,7 +47965,7 @@
         "variants":{
           
         },
-        "url":"files/assets/32146060/1/Circle-128x.png"
+        "url":"files/assets/GUI/Circle-128x.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -85851,7 +85851,7 @@
         "variants":{
           
         },
-        "url":"files/assets/35254193/1/Circle-64x.png"
+        "url":"files/assets/GUI/Circle-64x.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -85959,7 +85959,7 @@
         "variants":{
           
         },
-        "url":"files/assets/35254746/1/Circle-Rainbow.png"
+        "url":"files/assets/GUI/Circle-Rainbow.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -114575,7 +114575,7 @@
         "variants":{
           
         },
-        "url":"files/assets/39184042/1/Quest-Sell.jpg"
+        "url":"files/assets/GUI/Quest/Quest-Sell.jpg"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -114629,7 +114629,7 @@
         "variants":{
           
         },
-        "url":"files/assets/39184043/1/Quest-WithoutDie.jpg"
+        "url":"files/assets/GUI/Quest/Quest-WithoutDie.jpg"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -114683,7 +114683,7 @@
         "variants":{
           
         },
-        "url":"files/assets/39184044/1/Quest-Scar.jpg"
+        "url":"files/assets/GUI/Quest/Quest-Scar.jpg"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -114737,7 +114737,7 @@
         "variants":{
           
         },
-        "url":"files/assets/39184045/1/Quest-Dance.jpg"
+        "url":"files/assets/GUI/Quest/Quest-Dance.jpg"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -114791,7 +114791,7 @@
         "variants":{
           
         },
-        "url":"files/assets/Character/Echo/Quest-Echo.jpg"
+        "url":"files/assets/GUI/Quest/Quest-Echo.jpg"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -114845,7 +114845,7 @@
         "variants":{
           
         },
-        "url":"files/assets/39184047/1/Quest-Matches.jpg"
+        "url":"files/assets/GUI/Quest/Quest-Matches.jpg"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -114899,7 +114899,7 @@
         "variants":{
           
         },
-        "url":"files/assets/39184048/1/Quest-Melee.jpg"
+        "url":"files/assets/GUI/Quest/Quest-Melee.jpg"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -114953,7 +114953,7 @@
         "variants":{
           
         },
-        "url":"files/assets/39184049/1/Quest-Kill.jpg"
+        "url":"files/assets/GUI/Quest/Quest-Kill.jpg"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -115007,7 +115007,7 @@
         "variants":{
           
         },
-        "url":"files/assets/39249269/1/Quest-Objective.jpg"
+        "url":"files/assets/GUI/Quest/Quest-Objective.jpg"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -115061,7 +115061,7 @@
         "variants":{
           
         },
-        "url":"files/assets/39249638/1/Quest-Objective.jpg"
+        "url":"files/assets/GUI/Quest/Quest-Objective.jpg"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -115115,7 +115115,7 @@
         "variants":{
           
         },
-        "url":"files/assets/39249639/1/Quest-Tec9.jpg"
+        "url":"files/assets/GUI/Quest/Quest-Tec9.jpg"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -115169,7 +115169,7 @@
         "variants":{
           
         },
-        "url":"files/assets/39249640/1/Quest-Lilium.jpg"
+        "url":"files/assets/GUI/Quest/Quest-Lilium.jpg"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -115223,7 +115223,7 @@
         "variants":{
           
         },
-        "url":"files/assets/Character/Shin/Quest-Shin.jpg"
+        "url":"files/assets/GUI/Quest/Quest-Shin.jpg"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -115277,7 +115277,7 @@
         "variants":{
           
         },
-        "url":"files/assets/39249642/1/Quest-Sniper.jpg"
+        "url":"files/assets/GUI/Quest/Quest-Sniper.jpg"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -115655,7 +115655,7 @@
         "variants":{
           
         },
-        "url":"files/assets/39252951/1/Quest-Shotgun.jpg"
+        "url":"files/assets/GUI/Quest/Quest-Shotgun.jpg"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -163560,7 +163560,7 @@
         "variants":{
           
         },
-        "url":"files/assets/43171251/1/Background-Circle.png"
+        "url":"files/assets/GUI/Background-Circle.png"
       },
       "region":"eu-west-1",
       "i18n":{
